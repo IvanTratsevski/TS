@@ -1,0 +1,10 @@
+tsc -v
+npm i -g typescript
+npx tsc index.ts
+node -v
+node index.js
+npx tsc -v
+npx tsc index.ts --outDir ./scripts
+npx tsc --init
+npx tsc
+npx tsc -w
